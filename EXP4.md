@@ -39,8 +39,8 @@ else:
 ```
 
 ### Output:
+<img width="1170" height="593" alt="image" src="https://github.com/user-attachments/assets/b4a496f4-9d25-447a-a325-1bc1c7b6af59" />
 
-<img width="1918" height="727" alt="Screenshot 2025-10-16 081646" src="https://github.com/user-attachments/assets/3badca62-e495-40f7-9c8b-95c753f244f3" />
 
 
 
